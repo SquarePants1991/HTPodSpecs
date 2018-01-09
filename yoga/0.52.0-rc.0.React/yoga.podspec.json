@@ -19,7 +19,6 @@
     "-fno-omit-frame-pointer",
     "-fexceptions",
     "-Wall",
-    "-Werror",
     "-std=c++1y",
     "-fPIC"
   ],
