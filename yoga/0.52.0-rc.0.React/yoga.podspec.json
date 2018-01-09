@@ -10,8 +10,8 @@
   "description": "Yoga is a cross-platform layout engine enabling maximum collaboration within your team by implementing an API many designers are familiar with, and opening it up to developers across different platforms.",
   "authors": "Facebook",
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
-    "tag": "v0.52.0-rc.0"
+    "git": "https://github.com/SquarePants1991/react-native.git",
+    "branch": "ht52rc0"
   },
   "module_name": "yoga",
   "requires_arc": false,

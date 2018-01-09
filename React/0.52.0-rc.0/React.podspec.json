@@ -7,8 +7,8 @@
   "license": "BSD-3-Clause",
   "authors": "Facebook",
   "source": {
-    "git": "https://github.com/facebook/react-native.git",
-    "tag": "v0.52.0-rc.0"
+    "git": "https://github.com/SquarePants1991/react-native.git",
+    "branch": "ht52rc0"
   },
   "default_subspecs": "Core",
   "requires_arc": true,
